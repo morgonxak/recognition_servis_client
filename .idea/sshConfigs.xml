@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.1.59" id="432aa24c-13ab-4c12-8eb2-8873f2a1e56b" port="22" customName="jetsonNano" nameFormat="CUSTOM">
+        <option name="customName" value="jetsonNano" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
